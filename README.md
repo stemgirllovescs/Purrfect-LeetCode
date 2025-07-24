@@ -14,3 +14,19 @@ This journey reminds me that technical excellence doesn’t come from bursts of 
 *To Maya,  
 who reminds me that even when no one is watching, the performance must go on.  
 Quiet persistence is still a kind of brilliance.*
+
+🎭 A Programmer’s Stage
+Act I: Arrays & Strings
+Act II: Sorting & Two Pointers
+Act III: Stacks & Queues
+Act IV: DFS & BFS
+Act V: Binary Trees & Binary Search Trees
+Act VI: Heaps & Priority Queues
+Act VII: Hashing & Maps
+Act VIII: Binary Search & Divide and Conquer
+Act IX: Backtracking 
+Act X: Dynamic Programming 
+Act XI: Graphs & Union-Find 
+Act XII: Greedy Algorithms
+Act XIII: Bit Manipulation 
+Act XIV: Advanced Topics 
