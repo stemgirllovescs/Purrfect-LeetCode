@@ -19,17 +19,17 @@ Quiet persistence is still a kind of brilliance.*
 
 # 🎭 A Programmer’s Stage
 
-# Act I - Arrays and Strings
-# Act II - Sorting and Two Pointers
-# Act III - Stacks and Queues
-# Act IV - DFS and BFS
-# Act V - Binary Trees and Binary Search Trees
-# Act VI - Heaps and Priority Queues
-# Act VII - Hashing and Maps
-# Act VIII - Binary Search and Divide and Conquer
-# Act IX - Backtracking
-# Act X - Dynamic Programming
-# Act XI - Graphs and Union-Find
-# Act XII - Greedy Algorithms
-# Act XIII - Bit Manipulation
-# Act XIV - Advanced Topics
+### Act I - Arrays and Strings
+### Act II - Sorting and Two Pointers
+### Act III - Stacks and Queues
+### Act IV - DFS and BFS
+### Act V - Binary Trees and Binary Search Trees
+### Act VI - Heaps and Priority Queues
+### Act VII - Hashing and Maps
+### Act VIII - Binary Search and Divide and Conquer
+### Act IX - Backtracking
+### Act X - Dynamic Programming
+### Act XI - Graphs and Union-Find
+### Act XII - Greedy Algorithms
+### Act XIII - Bit Manipulation
+### Act XIV - Advanced Topics
