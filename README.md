@@ -17,24 +17,6 @@ Quiet persistence is still a kind of brilliance.*
 
 ---
 
-## 🎟 **Playbill — Table of Contents**
-- [Act I: Arrays & Strings](#act-i-arrays--strings)
-- [Act II: Sorting & Two Pointers](#act-ii-sorting--two-pointers)
-- [Act III: Stacks & Queues](#act-iii-stacks--queues)
-- [Act IV: DFS & BFS](#act-iv-dfs--bfs)
-- [Act V: Binary Trees & Binary Search Trees](#act-v-binary-trees--binary-search-trees)
-- [Act VI: Heaps & Priority Queues](#act-vi-heaps--priority-queues)
-- [Act VII: Hashing & Maps](#act-vii-hashing--maps)
-- [Act VIII: Binary Search & Divide and Conquer](#act-viii-binary-search--divide-and-conquer)
-- [Act IX: Backtracking](#act-ix-backtracking)
-- [Act X: Dynamic Programming](#act-x-dynamic-programming)
-- [Act XI: Graphs & Union-Find](#act-xi-graphs--union-find)
-- [Act XII: Greedy Algorithms](#act-xii-greedy-algorithms)
-- [Act XIII: Bit Manipulation](#act-xiii-bit-manipulation)
-- [Act XIV: Advanced Topics](#act-xiv-advanced-topics)
-
----
-
 ## 🎭 **A Programmer’s Stage**
 
 ### **Act I: Arrays & Strings**
