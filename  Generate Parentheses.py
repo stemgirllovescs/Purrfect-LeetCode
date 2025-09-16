@@ -1,6 +1,3 @@
-from shutil import register_unpack_format
-
-
 class Solution(object):
     def generateParenthesis(self, n):
         # We use stack and backtracking for this problem
